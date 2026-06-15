@@ -48,4 +48,4 @@ Aplikasi berbasis Laravel yang menyediakan fitur:
 ## 📫 Kontak
 
 - GitHub: https://github.com/wiratahelmi469-web1
-- wiratahelmi469@gmail.com
+- Email: wiratahelmi469@gmail.com
