@@ -1,41 +1,45 @@
-<h1 align="center">Halo, Saya Raja 👋</h1>
+<h1 align="center">Halo, Saya Raja Wirata Helmi 👋</h1>
 
 <p align="center">
-Pengusaha • UI/UX Enthusiast • Laravel Developer
+Mahasiswa Sistem Informasi • Pengusaha • UI/UX Enthusiast
 </p>
 
 ---
 
-## 🚀 Tentang Saya
+## 🎓 Tentang Saya
 
-Saya adalah seorang pengusaha yang memiliki minat besar pada pengembangan aplikasi web modern, UI/UX Design, dan teknologi digital.
+Saya adalah mahasiswa aktif Semester 2 Program Studi Sistem Informasi di STT Terpadu Nurul Fikri (STT NF) angkatan 2026.
 
-Saat ini saya fokus mengembangkan aplikasi menggunakan:
+Saya memiliki ketertarikan pada:
+
+- UI/UX Design
+- Web Development
+- Laravel & Filament
+- Manajemen Sistem Informasi
+- Digital Entrepreneurship
+
+Saat ini saya sedang mengembangkan berbagai proyek aplikasi berbasis web untuk meningkatkan kemampuan di bidang teknologi dan bisnis digital.
+
+## 🚀 Tech Stack
 
 - Laravel
-- Filament
 - PHP
 - MySQL
+- Filament
 - Tailwind CSS
 - JavaScript
+- Git & GitHub
 
-## 💼 Proyek
+## 💼 Proyek Unggulan
 
 ### Sistem Penyewaan Alat Outdoor
-Aplikasi manajemen penyewaan alat outdoor dengan fitur:
 
+Aplikasi berbasis Laravel yang menyediakan fitur:
+
+- Manajemen produk UMKM
 - Booking online
-- Upload pembayaran
 - Dashboard admin
-- Laporan transaksi
-- Manajemen produk
-
-## 🛠 Tech Stack
-
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+- e-commmerce sederhana
 
 ## 📊 GitHub Stats
 
@@ -44,3 +48,4 @@ Aplikasi manajemen penyewaan alat outdoor dengan fitur:
 ## 📫 Kontak
 
 - GitHub: https://github.com/wiratahelmi469-web1
+- wiratahelmi469@gmail.com
