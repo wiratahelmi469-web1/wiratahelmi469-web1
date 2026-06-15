@@ -126,9 +126,9 @@ Laravel • Filament • MySQL • Tailwind CSS
 
 <p>
 <a href="https://github.com/wiratahelmi469-web1">
-GitHub Profile
+github.com/wiratahelmi469-web1
 </a>
-
+<br>
   <a href="mailto:wiratahelmi469@gmail.com">
     wiratahelmi469@gmail.com
   </a>
