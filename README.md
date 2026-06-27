@@ -18,76 +18,107 @@
 
 ## 👨‍💻 About Me
 
-🎓 Information Systems Student at STT Terpadu Nurul Fikri
-
-📚 Currently in Semester 2
-
-💼 Entrepreneur passionate about technology and digital business
-
-🎨 Interested in UI/UX Design, Web Development, and Information Systems
-
-🚀 Currently developing web applications using Laravel and Filament
-
-🌱 Learning:
-- Laravel Ecosystem
-- Filament PHP
-- UI/UX Design
-- Database Engineering
-- System Analysis & Design
+- 🎓 Information Systems Student at STT Terpadu Nurul Fikri
+- 📚 Currently in Semester 2
+- 💼 Entrepreneur passionate about technology and digital business
+- 🎨 Interested in UI/UX Design, Web Development, and Information Systems
+- 🚀 Currently developing web applications using Laravel and Filament
+- 🌱 Learning:
+  - Laravel Ecosystem
+  - Filament PHP
+  - UI/UX Design
+  - Database Engineering
+  - System Analysis & Design
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,react" />
 </p>
 
 ### Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Outdoor Rental Management System
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-A modern rental management platform built with Laravel.
+<div align="center">
 
-#### Features
+[![OutdoorRent](https://img.shields.io/badge/🏕️_OutdoorRent-4F46E5?style=for-the-badge&logoColor=white)](https://github.com/wiratahelmi469-web1)
 
-✅ Product Management
+**Outdoor Equipment Rental Platform**
 
-✅ Online Booking
+</div>
 
-✅ Payment Verification
+Full-stack rental management system with role-based access and integrated online payments.
 
-✅ Customer Management
+- ✅ Live Cost Calculator & Online Booking
+- ✅ Midtrans Payment Integration
+- ✅ Role-Based Access (Spatie Permission)
+- ✅ Custom Filament Admin Dashboard
 
-✅ Admin Dashboard
+<div align="center">
 
-✅ Reporting System
+<img src="https://img.shields.io/badge/Laravel_12-4F46E5?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament_5-3B82C4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-2D6FA3?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-#### Tech Stack
+</div>
 
-Laravel • Filament • MySQL • Tailwind CSS
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+[![EventHub Kampus](https://img.shields.io/badge/🎓_EventHub_Kampus-06B6D4?style=for-the-badge&logoColor=white)](https://prototipe-one.vercel.app)
+
+**Campus Event Management Platform**
+
+</div>
+
+Prototype platform for managing campus events at Universitas Nurul Fikri with four distinct user roles.
+
+- ✅ QR Code-Based Attendance Scanning
+- ✅ Role-Based Chat
+- ✅ Multi-Role Dashboard (Mahasiswa, PO, Panitia, Staff)
+- ✅ Live Demo Deployed
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-06B6D4?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-2D9DB8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-4F46E5?style=flat-square&logo=vercel&logoColor=white" />
+
+<br/><br/>
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-4F46E5?style=flat-square&logoColor=white)](https://prototipe-one.vercel.app)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,13 +156,9 @@ Laravel • Filament • MySQL • Tailwind CSS
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/wiratahelmi469-web1">
-github.com/wiratahelmi469-web1
-</a>
-<br>
-  <a href="mailto:wiratahelmi469@gmail.com">
-    wiratahelmi469@gmail.com
-  </a>
+  <a href="https://github.com/wiratahelmi469-web1">github.com/wiratahelmi469-web1</a>
+  <br>
+  <a href="mailto:wiratahelmi469@gmail.com">wiratahelmi469@gmail.com</a>
 </p>
 
 ---
