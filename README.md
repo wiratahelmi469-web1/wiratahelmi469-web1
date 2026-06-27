@@ -18,41 +18,79 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Information Systems Student at STT Terpadu Nurul Fikri
-- 📚 Currently in Semester 2
-- 💼 Entrepreneur passionate about technology and digital business
-- 🎨 Interested in UI/UX Design, Web Development, and Information Systems
-- 🚀 Currently developing web applications using Laravel and Filament
-- 🌱 Learning:
-  - Laravel Ecosystem
-  - Filament PHP
-  - UI/UX Design
-  - Database Engineering
-  - System Analysis & Design
+<table width="100%">
+<tr>
+<td>
+
+<div align="center">
+
+[![About Me](https://img.shields.io/badge/👨‍💻_About_Me-4F46E5?style=for-the-badge&logoColor=white)]()
+
+</div>
+
+🎓 Information Systems Student at **STT Terpadu Nurul Fikri**
+📚 Currently in **Semester 2**
+💼 Entrepreneur passionate about technology and digital business
+🎨 Interested in **UI/UX Design**, **Web Development**, and **Information Systems**
+🚀 Currently developing web applications using **Laravel** and **Filament**
+
+**🌱 Currently Learning**
+<img src="https://img.shields.io/badge/Laravel_Ecosystem-4F46E5?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament_PHP-06B6D4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX_Design-4F46E5?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Database_Engineering-06B6D4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Analysis_%26_Design-4F46E5?style=flat-square&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,react" />
-</p>
+[![Backend](https://img.shields.io/badge/⚙️_Backend-4F46E5?style=for-the-badge&logoColor=white)]()
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<br/>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+[![Frontend](https://img.shields.io/badge/🎨_Frontend-06B6D4?style=for-the-badge&logoColor=white)]()
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,react" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+[![Database](https://img.shields.io/badge/🗄️_Database-4F46E5?style=for-the-badge&logoColor=white)]()
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+[![Tools](https://img.shields.io/badge/🧰_Tools-06B6D4?style=for-the-badge&logoColor=white)]()
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</td>
+</tr>
+</table>
 
 ---
 
