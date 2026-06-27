@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Raja%20Wirata%20Helmi&fontSize=50&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=%20Wirata%20Helmi&fontSize=50&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Helmi Wirata</h1>
